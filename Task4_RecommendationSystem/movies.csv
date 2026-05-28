@@ -1,0 +1,61 @@
+movie_id,title,genre
+1,John Wick: Chapter 4,Action
+2,Mad Max: Fury Road,Action
+3,Avengers: Endgame,Action
+4,Gladiator,Action
+5,The Dark Knight,Action
+6,Die Hard,Action
+7,The Batman,Action
+8,Mission: Impossible - Dead Reckoning,Action
+9,Top Gun: Maverick,Action
+10,Spider-Man: No Way Home,Action
+11,Extraction 2,Action
+12,The Bourne Identity,Action
+13,Interstellar,Sci-Fi
+14,Inception,Sci-Fi
+15,The Matrix Resurrections,Sci-Fi
+16,Arrival,Sci-Fi
+17,Blade Runner 2049,Sci-Fi
+18,Dune: Part Two,Sci-Fi
+19,The Prestige,Sci-Fi
+20,Tenet,Sci-Fi
+21,Oppenheimer,Sci-Fi
+22,Everything Everywhere All at Once,Sci-Fi
+23,Avatar: The Way of Water,Sci-Fi
+24,Gravity,Sci-Fi
+25,The Hangover,Comedy
+26,Superbad,Comedy
+27,Step Brothers,Comedy
+28,21 Jump Street,Comedy
+29,Deadpool & Wolverine,Comedy
+30,Tropic Thunder,Comedy
+31,Zombieland,Comedy
+32,Free Guy,Comedy
+33,Barbie,Comedy
+34,Knives Out,Comedy
+35,Bullet Train,Comedy
+36,The Wolf of Wall Street,Comedy
+37,The Conjuring,Horror
+38,Insidious,Horror
+39,IT Chapter Two,Horror
+40,A Quiet Place Part II,Horror
+41,Hereditary,Horror
+42,Get Out,Horror
+43,The Invisible Man,Horror
+44,Sinister,Horror
+45,Talk to Me,Horror
+46,Midsommar,Horror
+47,The Black Phone,Horror
+48,A Nightmare on Elm Street,Horror
+49,The Lord of the Rings: The Return of the King,Fantasy
+50,The Hobbit: An Unexpected Journey,Fantasy
+51,Harry Potter and the Deathly Hallows,Fantasy
+52,Avatar,Fantasy
+53,Pirates of the Caribbean,Fantasy
+54,The Chronicles of Narnia,Fantasy
+55,Percy Jackson & the Olympians,Fantasy
+56,Doctor Strange in the Multiverse of Madness,Fantasy
+57,Dungeons & Dragons: Honor Among Thieves,Fantasy
+58,Guillermo del Toro's Pinocchio,Fantasy
+59,Spider-Man: Across the Spider-Verse,Fantasy
+60,Puss in Boots: The Last Wish,Fantasy

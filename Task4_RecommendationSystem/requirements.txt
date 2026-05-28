@@ -1,0 +1,6 @@
+pandas
+numpy
+customtkinter
+pillow
+requests
+scikit-learn
