@@ -1,0 +1,4 @@
+.venv/
+*.db
+chat_history.txt
+**pycache**/
